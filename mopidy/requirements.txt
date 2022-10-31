@@ -1,0 +1,1 @@
+Mopidy-Iris==3.37.1
